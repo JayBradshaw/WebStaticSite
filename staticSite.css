@@ -1,4 +1,46 @@
 /*Justin Bradshaw A01782405
 Style Sheet for Static Site
+
+
+FDEDD0	BCF1ED	FF634D	FD795B
 */
+body{
+	background-color: #FDEDD0;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+nav{
+	background-color: #FD795B;	
+	height: 70px;
+	margin-top: 25px;
+	margin-bottom: 25px;
+	border: outset 10px lightgrey;
+	text-align: center;
+	padding-top: 45px;
+}
+
+.navigation a{
+
+	list-style-type: none;
+	margin-top: 20px;
+	margin-right: 150px;
+	color: #FFFFFF;
+	border: outset 6px lightgrey;
+	padding: 15px;
+	background-color: #FF634D;
+	text-decoration: none;
+
+}
+
+.navigation a:hover{
+	background-color: #BCF1ED;
+	border: outset 5px #BCF1ED;
+	color: #FF634D;
+}
+
+h1{
+	text-align: center;
+}
+
 
