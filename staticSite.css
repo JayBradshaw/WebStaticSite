@@ -97,3 +97,23 @@ img.aggie{
 p.modify{
 	padding-top: 30px;
 }
+
+th, tr{
+	padding-right: 10px;
+}
+
+table{
+	margin-top: 20px;
+	margin: auto;
+}
+
+h3.forTable{
+	text-align: center;
+	margin-top: 20px;
+}
+
+ul{
+	text-align: right;
+	list-style-position: inside;
+	list-style-type: square;
+}
